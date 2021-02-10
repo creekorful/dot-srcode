@@ -1,1 +1,7 @@
-{}
+{
+  "projects": {
+    "Contributing/terminews": {
+      "remote": "git@github.com:antavelos/terminews.git"
+    }
+  }
+}
