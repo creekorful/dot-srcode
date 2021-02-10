@@ -15,7 +15,12 @@
       }
     },
     "Perso/mvnparser": {
-      "remote": "git@github.com:creekorful/mvnparser.git"
+      "remote": "git@github.com:creekorful/mvnparser.git",
+      "scripts": {
+        "test": [
+          "@go-test"
+        ]
+      }
     },
     "Perso/srcode": {
       "remote": "git@github.com:creekorful/srcode.git"
