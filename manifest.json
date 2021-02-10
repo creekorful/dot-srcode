@@ -4,7 +4,12 @@
       "remote": "git@github.com:antavelos/terminews.git"
     },
     "Darkspot/bathyscaphe": {
-      "remote": "git@github.com:darkspot-org/bathyscaphe.git"
+      "remote": "git@github.com:darkspot-org/bathyscaphe.git",
+      "scripts": {
+        "test": [
+          "@go-test"
+        ]
+      }
     },
     "Perso/mvnparser": {
       "remote": "git@github.com:creekorful/mvnparser.git"
