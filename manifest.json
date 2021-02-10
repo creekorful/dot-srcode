@@ -6,6 +6,9 @@
     "Darkspot/bathyscaphe": {
       "remote": "git@github.com:darkspot-org/bathyscaphe.git",
       "scripts": {
+        "gen": [
+          "@go-generate"
+        ],
         "test": [
           "@go-test"
         ]
