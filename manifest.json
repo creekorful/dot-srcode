@@ -5,6 +5,9 @@
     },
     "Darkspot/bathyscaphe": {
       "remote": "git@github.com:darkspot-org/bathyscaphe.git"
+    },
+    "Perso/srcode": {
+      "remote": "git@github.com:creekorful/srcode.git"
     }
   }
 }
