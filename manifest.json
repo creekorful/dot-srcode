@@ -41,7 +41,8 @@
         "test": [
           "@go-test"
         ]
-      }
+      },
+      "hook": "test"
     }
   },
   "scripts": {
