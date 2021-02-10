@@ -2,6 +2,9 @@
   "projects": {
     "Contributing/terminews": {
       "remote": "git@github.com:antavelos/terminews.git"
+    },
+    "Darkspot/bathyscaphe": {
+      "remote": "git@github.com:darkspot-org/bathyscaphe.git"
     }
   }
 }
