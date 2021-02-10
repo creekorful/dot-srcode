@@ -17,7 +17,8 @@
         "test": [
           "@go-test"
         ]
-      }
+      },
+      "hook": "test"
     },
     "Darkspot/sonar": {
       "remote": "git@github.com:darkspot-org/sonar.git"
