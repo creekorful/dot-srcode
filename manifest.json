@@ -1,7 +1,12 @@
 {
   "projects": {
     "Contributing/terminews": {
-      "remote": "git@github.com:antavelos/terminews.git"
+      "remote": "git@github.com:antavelos/terminews.git",
+      "scripts": {
+        "test": [
+          "@go-test"
+        ]
+      }
     },
     "Darkspot/bathyscaphe": {
       "remote": "git@github.com:darkspot-org/bathyscaphe.git",
