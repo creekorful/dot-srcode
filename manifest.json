@@ -46,6 +46,9 @@
     }
   },
   "scripts": {
+    "git-release": [
+      "git tag -s \"v$1\" -m \"Release $1\""
+    ],
     "go-generate": [
       "go generate -v ./..."
     ],
