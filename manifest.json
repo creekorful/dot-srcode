@@ -38,6 +38,9 @@
         "gen": [
           "@go-generate"
         ],
+        "release": [
+          "@git-release"
+        ],
         "test": [
           "@go-test"
         ]
