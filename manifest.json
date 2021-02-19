@@ -23,6 +23,9 @@
     "Darkspot/sonar": {
       "remote": "git@github.com:darkspot-org/sonar.git"
     },
+    "Perso/boom": {
+      "remote": "git@github.com:creekorful/boom.git"
+    },
     "Perso/mvnparser": {
       "remote": "git@github.com:creekorful/mvnparser.git",
       "scripts": {
