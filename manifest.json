@@ -49,6 +49,9 @@
         ]
       },
       "hook": "test"
+    },
+    "Perso/todosync": {
+      "remote": "git@github.com:creekorful/todosync.git"
     }
   },
   "scripts": {
