@@ -63,6 +63,9 @@
     ],
     "go-test": [
       "go test -race -v ./..."
+    ],
+    "python-test": [
+      "pytest"
     ]
   }
 }
