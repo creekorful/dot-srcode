@@ -53,6 +53,9 @@
     "Perso/todosync": {
       "remote": "git@github.com:creekorful/todosync.git",
       "scripts": {
+        "pkg": [
+          "python3 -m build"
+        ],
         "test": [
           "@python-test"
         ]
