@@ -58,6 +58,9 @@
         ],
         "test": [
           "@python-test"
+        ],
+        "upload": [
+          "python3 -m twine upload dist/todosync-0.1.2-py3-none-any.whl dist/todosync-0.1.2.tar.gz --verbose"
         ]
       }
     }
