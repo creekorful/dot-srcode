@@ -56,6 +56,9 @@
         "pkg": [
           "python3 -m build"
         ],
+        "release": [
+          "@git-release"
+        ],
         "test": [
           "@python-test"
         ],
