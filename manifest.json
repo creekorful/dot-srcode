@@ -66,6 +66,9 @@
           "python3 -m twine upload dist/* --verbose"
         ]
       }
+    },
+    "Website/blog.creekorful.com": {
+      "remote": "git@github.com:creekorful/blog.git"
     }
   },
   "scripts": {
