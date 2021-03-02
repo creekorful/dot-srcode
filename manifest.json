@@ -26,6 +26,9 @@
     "Perso/boom": {
       "remote": "git@github.com:creekorful/boom.git"
     },
+    "Perso/mailman": {
+      "remote": "git@github.com:creekorful/mailman.git"
+    },
     "Perso/mvnparser": {
       "remote": "git@github.com:creekorful/mvnparser.git",
       "scripts": {
